@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Local Comics</string>
+    <string name="tittle">Judul Komik</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+
+    <string-array name="data_tittle">
+        <item>Arum Daun</item>
+        <item>Stand Up, Mr. President!</item>
+        <item>WEE!!!</item>
+        <item>Moon Flower</item>
+        <item>Terlalu Tampan</item>
+        <item>Pupus Putus Sekolah</item>
+        <item>Dorm Du</item>
+        <item>Deadly 7 Inside Me</item>
+        <item>Garden Of The Dead Flowers</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kisah seorang gadis yang berteman dengan sosok Alam. Apakah ia cukup kuat untuk menghadapi kehidupannya yang penuh dengan kemalangan? Ataukah ia akan memerlukan bantuan Sang Alam?</item>
+        <item>Stand up komedian jadi Presiden?! Kok bisa? Ikuti kisah Khai Obhad dan ajudannya, Nika Yukita dalam mengemban tugas negara!</item>
+        <item>Di saat kangen sekolah dan bertemu teman-teman lagi, ada Amu yang kesehariannya di sekolah bisa kamu ikuti! Bersama teman-temannya yang berkelakuan aneh serta bodoh, mereka akan melalui masa SMA yang penuh suka, duka, cita, dan cinta!</item>
+        <item>Murid berprestasi yang terlihat supel dan ramah itu adalah Naomi Syamsyah. Siapa yang menyangka dibalik sosok lembutnya itu penuh akan misteri?</item>
+        <item>Jadi orang tampan ternyata banyak deritanya seperti satu keluarga tampan yang kelakuannya aneh ini. Apakah keluarga ini bisa hidup selayaknya orang normal?</item>
+        <item>Sekolah itu sungguh menyebalkan! Tapi Pupus ingin pintar, bisa ini bisa itu. Pintar tanpa sekolah. Harusnya itu impian yang wajar-wajar saja, kan?</item>
+        <item>Seorang gadis terjebak di sekolah yang mewah namun mengerikan. Karpet mahal, lampu gantung berkilauan, dan perabotan mewah membuat tempat itu tampak seperti istana dongeng. Tapi itu semua hanyalah kedok. Lapisan kemewahan menyembunyikan kenyataan yang jauh lebih gelap.</item>
+        <item>Pertikaian antara 7 Dosa Besar melawan 7 Kebajikan di dunia</item>
+        <item>Saat Mila terbangun, tiba-tiba dia sudah ada di Batavia pada zaman kolonial Belanda dan melihat kakekknya yang masih muda membunuh wanita! Kakek yang dia kira baik, ternyata membunuh gadis-gadis itu di tamannya dan menanamnya hingga menjadi bunga-bunga baru.</item>
+    </string-array>
+
+    <integer-array name="data_picture">
+        <item>@drawable/arum_daun</item>
+        <item>@drawable/stand_up</item>
+        <item>@drawable/wee</item>
+        <item>@drawable/moon_flower</item>
+        <item>@drawable/terlalu_tampan</item>
+        <item>@drawable/pupus_putus_sekolah</item>
+        <item>@drawable/dorm_du</item>
+        <item>@drawable/deadly_seven</item>
+        <item>@drawable/garden</item>
+    </integer-array>
+
+    <string-array name="data_rate">
+        <item>9.74</item>
+        <item>9.81</item>
+        <item>9.90</item>
+        <item>9.78</item>
+        <item>9.73</item>
+        <item>9.92</item>
+        <item>9.82</item>
+        <item>9.88</item>
+        <item>9.86</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Drama</item>
+        <item>Comedy</item>
+        <item>Slice of Life</item>
+        <item>Drama</item>
+        <item>Comedy</item>
+        <item>Slice Of Life</item>
+        <item>Thriller</item>
+        <item>Fantasy</item>
+        <item>Thriller</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Ongoing</item>
+        <item>Completed</item>
+        <item>Completed</item>
+        <item>Ongoing</item>
+        <item>Ongoing</item>
+        <item>Completed</item>
+        <item>Completed</item>
+    </string-array>
+
+    <string-array name="data_author">
+        <item>Shinshinhye</item>
+        <item>Rutheal, Lidowey</item>
+        <item>Amoeba UwU</item>
+        <item>ifuaira00</item>
+        <item>Mas Okis, S.M.S</item>
+        <item>Kurnia Harta Winata</item>
+        <item>-KAFAZA14-</item>
+        <item>Deruu RioTa</item>
+        <item>Sero, Corbenyx</item>
+    </string-array>
+</resources>

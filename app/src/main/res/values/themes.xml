@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LocalComics" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <style name="Theme.LocalComics" parent="Base.Theme.LocalComics" />
+
+    <style name="Theme.LocalComics.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/blue</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_splash</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.LocalComics</item>
+        <item name="windowSplashScreenAnimationDuration">2000</item>
+    </style>
+</resources>
